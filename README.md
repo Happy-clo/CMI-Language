@@ -1,31 +1,31 @@
-# CMI Issue Tracker
+# CMI问题追踪器
 
-This is the official issue tracker for CMI.
+这是CMI的官方问题追踪器。
 
-CMI isn't currently open source. It's a premium plugin that you can get through [SpigotMC](https://www.spigotmc.org/resources/3742/). It requires [CMILib](https://www.spigotmc.org/resources/87610/) to run.
+CMI目前不是开源的。它是一款优质的插件，你可以通过[SpigotMC](https://www.spigotmc.org/resources/3742/)获取。它需要[CMILib](https://www.spigotmc.org/resources/87610/)来运行。
 
-Aside from issues you can also request features for CMI here.
+除了问题，你也可以在这里请求CMI的功能。
 
-If you are having any issues regarding payments and/or other private matters, please message `Zrips` on [Spigot](https://www.spigotmc.org/conversations/add?to=Zrips). 
+如果你遇到与付款或其他私人事项有关的问题，请私信`Zrips`，链接在[Spigot](https://www.spigotmc.org/conversations/add?to=Zrips)上。
 
-Be sure to check out the [FAQ](https://www.zrips.net/faq) page if you have any pre-sales questions.
+如果你有任何售前问题，请务必查看[常见问题解答](https://www.zrips.net/faq)页面。
 
-## Bug Reports
+## Bug报告
 
-Before filing a bug report, please make sure your CMI and CMILib .jar files are up to date. 
+在提交Bug报告之前，请确保你的CMI和CMILib的.jar文件是最新的。
 
-Please check the existing list of issues before creating a bug report and ensure that nobody else has already submitted the same bug report. You're welcome to add any information to existing issues. If you cannot find an issue about your problem, you're free to create your own.
+在创建Bug报告之前，请检查现有的问题列表，确保没有其他人已经提交了相同的Bug报告。你可以为现有问题添加任何信息。如果你在现有问题中找不到关于你的问题的报告，你可以自己创建一个。
 
-Bug reports should be posted under the [Issues](https://github.com/Zrips/CMI/issues) tab.
+Bug报告应该发布在[Issues](https://github.com/Zrips/CMI/issues)选项卡下。
 
-## Suggestions and Feature Requests
+## 建议和功能请求
 
-Before making a suggestion, please ensure that there are no other discussions that relate to your suggestion. If there are no relevant discussions, you're free to make your own discussion.
+在提出建议之前，请确保没有与你的建议相关的其他讨论。如果没有相关讨论，你可以自由地发起讨论。
 
-Suggestions should be posted under the [Discussions](https://github.com/Zrips/CMI/discussions) tab.
+建议应该发布在[Discussions](https://github.com/Zrips/CMI/discussions)选项卡下。
 
-## Documentation and Community Support
+## 文档和社区支持
 
-You can find in-depth documentation about CMI on [zrips.net](https://www.zrips.net/cmi/).
+你可以在[zrips.net](https://www.zrips.net/cmi/)上找到关于CMI的详细文档。
 
-There is also a community-driven [Discord server](https://discord.gg/dDMamN4) where you can post your questions for community members to assist you. 
+还有一个由社区驱动的[Discord服务器](https://discord.gg/dDMamN4)，在这里你可以发布问题，社区成员会帮助你。
