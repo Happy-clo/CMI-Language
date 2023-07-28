@@ -1,0 +1,548 @@
+PlayerHover:
+- ''
+KillerHover:
+- ''
+Escaping:
+- '&7，当逃离 &2[sourceDisplayName]&7 时。'
+- '&7，与 &2[sourceDisplayName]&7 战斗时。'
+RunningAway:
+- '&7，当逃离 &2[mobName]&7 时。'
+- '&7，与 &2[mobName]&7 战斗时。'
+Player:
+  General:
+  - '&2[playerDisplayName] &7被 &2[sourceDisplayName]&7 杀死。'
+  - '&2[playerDisplayName] &7遭受了 &2[sourceDisplayName] &7的拳头。'
+  - '&2[playerDisplayName] &7被 &2[sourceDisplayName]&7 打死了。'
+  Item:
+  - '&2[playerDisplayName] &7被 &2[sourceDisplayName] &7的 &2[item] &7击杀。'
+  Projectile:
+  - '&2[playerDisplayName] &7被 &2[sourceDisplayName] &7的 &2[type] &7击杀。'
+  Fireball:
+  - '&2[playerDisplayName] &7被 &2[sourceDisplayName] &7点燃。'
+  Firework:
+  - '&2[playerDisplayName] &7因为 &2[sourceDisplayName] &7的烟花而爆炸。'
+FallingBlocks:
+  Anvil:
+    General:
+    - '&2[playerDisplayName] &7被掉落的铁砧压扁。'
+    - '&2[playerDisplayName] &7被铁砧压扁。'
+    - '&2[playerDisplayName] &7用头撞上了铁砧。'
+Block:
+  Cactus:
+    General:
+    - '&2[playerDisplayName] &7试图拥抱仙人掌。'
+    - '&2[playerDisplayName] &7离仙人掌太近了。'
+    - '&2[playerDisplayName] &7推了一下仙人掌，但仙人掌还以颜色。'
+    - '&2[playerDisplayName] &7拥抱了一颗仙人掌。'
+    - '&2[playerDisplayName] &7被仙人掌击败了。'
+  Dispenser:
+    Arrow:
+    - '&2[playerDisplayName] &7被发射器射中箭了。'
+    Splash_potion:
+    - '&2[playerDisplayName] &7死于药水瓶的冲击波。'
+    - '&2[playerDisplayName] &7因为药水泼洒而滑倒。'
+  Magma_block:
+    General:
+    - '&2[playerDisplayName] &7发现地板是熔岩。'
+    - '&2[playerDisplayName] &7低估了岩浆块的攻击力。'
+    - '&8岩浆块比&2[playerDisplayName]&7更快一步。'
+  Sweet_berry_bush:
+    General:
+    - '&2[playerDisplayName] &7被甜浆果灌木扎死。'
+  Lava:
+    General:
+    - '&2[playerDisplayName] &7试图在岩浆中游泳。'
+  Pointed_dripstone:
+    General:
+    - '&2[playerDisplayName] &7被一根钻石滴水柱刺穿。'
+Custom:
+  Block_explosion:
+    General:
+    - '&2[playerDisplayName] &7死于[游戏设计]。'
+  Fall:
+    Low:
+      General:
+      - '&2[playerDisplayName] &7摔断了腿。'
+      - '&2[playerDisplayName] &7与重力搏斗，失败了。'
+      - '&2[playerDisplayName] &7认为重力只是一个理论。'
+      - '&2[playerDisplayName] &7亲身体验了重力。'
+      - '&7&2[playerDisplayName] &7忘记了思考。'
+  High:
+    General:
+    - '&2[playerDisplayName] &7从太高的地方掉下来了。'
+    - '&2[playerDisplayName] &7从很高的地方掉下来了。'
+    - '&7看样子 &2[playerDisplayName] &7忘记开飞行外挂了。'
+    - '&2[playerDisplayName] &7试图不绑绳子跳蹦极。'
+    - '&2[playerDisplayName] &7想要到达月球。'
+    - '&2[playerDisplayName] &7还不知道 Shift 键有什么用。'
+    - '&2[playerDisplayName] &7似乎不会飞行。'
+    - '&2[playerDisplayName] &7现在知道中国产的翅膀是怎么运作的了。'
+  Fire:
+    General:
+    - '&2[playerDisplayName] &7被火焰燃烧了。'
+    - '&2[playerDisplayName] &7认为停在火焰上是个好主意。'
+    - '&2[playerDisplayName] &7被烧成焦炭。'
+    - '&7显然，&2[playerDisplayName] &7不是耐高温的。'
+    - '&2[playerDisplayName] &7意识到火会... 烧掉一切。'
+    - '&2[playerDisplayName] &7冷了... 不再了。'
+    - '&8火焰吞噬了&2[playerDisplayName]&7。'
+    - '&2[playerDisplayName] &7变得太热了。'
+  Fire_tick:
+    General:
+    - '&2[playerDisplayName] &7被火焰缠身，化为灰烬。'
+    - '&2[playerDisplayName] &7被火烧成灰。'
+    - '&2[playerDisplayName] &7被烧成焦炭。'
+    - '&7显然，&2[playerDisplayName] &7不是耐高温的。'
+    - '&7火焰吞噬了&2[playerDisplayName]&7。'
+  Lightning:
+    General:
+    - '&2[playerDisplayName] &7被雷击中了。'
+    - '&2[playerDisplayName] &7遭受了 /lighting 咒语的后果。'
+    - '&2[playerDisplayName] &7变成了火人。'
+    - '&7雷神 Thor 击碎了[playerDisplayName]。'
+    - '&2[playerDisplayName] &7被电击了。'
+    - '&2[playerDisplayName] &7在雨中漫步。'
+    - '&2[playerDisplayName] &7在暴风雨中躲在树下。'
+    - '&2[playerDisplayName] &7被电荷击中。'
+  Suffocation:
+    General:
+    - '&2[playerDisplayName] &7被墙壁窒息。'
+    - '&2[playerDisplayName] &7被压得喘不过气。'
+  Custom:
+    General:
+    - '&2[playerDisplayName] &7就这样离开了。'
+  Drowning:
+    General:
+    - '&2[playerDisplayName] &7溺水身亡。'
+    - '&2[playerDisplayName] &7以为能在水下呼吸。'
+  Freeze:
+    General:
+    - '&2[playerDisplayName] &7冻僵了。'
+    - '&2[playerDisplayName] &7忘记穿上外套。'
+  Suicide:
+    General:
+    - '&2[playerDisplayName] &7结束了自己的生命。'
+  Void:
+    General:
+    - '&2[playerDisplayName] &7掉入虚空之下。'
+  EndCrystal:
+    General:
+    - '&2[playerDisplayName] &7像一颗末影水晶一样碎裂。'
+  Wither:
+    General:
+    - '&2[playerDisplayName] &7被凋零侵蚀。'
+  Fly_into_wall:
+    General:
+    - '&2[playerDisplayName] &7感受了动能的力量。'
+    - '&2[playerDisplayName] &7学会了动量守恒定律。'
+Projectile:
+  Arrow:
+  - '&2[playerDisplayName] &7被一箭射穿。'
+  - '&2[playerDisplayName] &7被严重射中。'
+  Spectral_arrow:
+  - '&2[playerDisplayName] &7被一支光灵箭射穿。'
+  Tipped_arrow:
+  - '&2[playerDisplayName] &7被一支带药箭射中。'
+  Fireball:
+  - '&2[playerDisplayName] &7在玩弄火球时死去。'
+  Firework:
+  - '&2[playerDisplayName] &7被烟花效果搞死。'
+Mob:
+  Primed_tnt:
+    General:
+    - '&2[playerDisplayName]... &7被炸飞了。'
+  Elder_guardian:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Wither_skeleton:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Stray:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Husk:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Zombie_villager:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Skeleton_horse:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Zombie_horse:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Armor_stand:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Donkey:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Mule:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Evoker:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Vex:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Vindicator:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Illusioner:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Creeper:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Skeleton:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Spider:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Giant:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Zombie:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Slime:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Ghast:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Zombified_piglin:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Enderman:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Cave_spider:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Silverfish:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Blaze:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Magma_cube:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Ender_dragon:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Wither:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Bat:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Witch:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Endermite:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Guardian:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Shulker:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Pig:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Sheep:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Cow:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Chicken:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Squid:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Wolf:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Mushroom_cow:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Snowman:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Ocelot:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Iron_golem:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Horse:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Rabbit:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Polar_bear:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Llama:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Parrot:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Villager:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Turtle:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Phantom:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Cod:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Salmon:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Pufferfish:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Tropical_fish:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Drowned:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Dolphin:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Cat:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Panda:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Pillager:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Ravager:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Trader_llama:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Wandering_trader:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Fox:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Bee:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Hoglin:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Piglin:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Strider:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Zoglin:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Piglin_brute:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Axolotl:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Glow_squid:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Goat:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Allay:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Frog:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Tadpole:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Warden:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
+  Camel:
+    General:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 杀害。'
+    Item:
+    - '&2[playerDisplayName] &7被 &2[mobName]&7 的 &2[item] &7杀害。'
