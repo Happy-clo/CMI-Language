@@ -29,3 +29,12 @@ Bug报告应该发布在[Issues](https://github.com/Zrips/CMI/issues)选项卡�
 你可以在[zrips.net](https://www.zrips.net/cmi/)上找到关于CMI的详细文档。
 
 还有一个由社区驱动的[Discord服务器](https://discord.gg/dDMamN4)，在这里你可以发布问题，社区成员会帮助你。
+# Statement
+
+> [!CAUTION]  
+> 本分支仅用于个人开发提供学习研究，请勿直接使用任何附件。如出现任何有关源附件问题，本作者概不负责。
+
+---
+
+> [!CAUTION]  
+> This branch is only for personal development, study and research. Please do not use any attachments directly. The author is not responsible for any problems with the source attachments.
